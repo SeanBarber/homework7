@@ -1,6 +1,6 @@
 ---
 title: Homework 7
-# {{page.due}}: Thursday December 6th, 11:59:59 PM
+page.due: Thursday December 6th, 11:59:59 PM
 ---
 # {{ page.title }}: Measuring thread and process performance
 
@@ -65,4 +65,4 @@ The other approach is _microbenchmarks_, or testing the time it takes to perform
 
 #### Due date
 
-This assignment is due {{page.due}}.
+This assignment is due {{ md page.due}}.
