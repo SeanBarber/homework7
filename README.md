@@ -1,8 +1,7 @@
 ---
-title: Sean was hereHomework 7
-due: Thursday December 6th, 11:59:59 PM
+title: Homework 7
+# {{page.due}}: Thursday December 6th, 11:59:59 PM
 ---
-
 # {{ page.title }}: Measuring thread and process performance
 
 All of our other homeworks have primarily been concerned with correctness rather than performance. This assignment will teach you both how to measure performance and show you the difference between different implementation choices: in this case, using threads vs. processes vs. a pre-spawned thread worker pool.
