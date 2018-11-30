@@ -1,5 +1,5 @@
 ---
-title: Homework 7
+title: Sean was hereHomework 7
 due: Thursday December 6th, 11:59:59 PM
 ---
 
