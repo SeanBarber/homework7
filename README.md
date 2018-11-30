@@ -67,4 +67,4 @@ The other approach is _microbenchmarks_, or testing the time it takes to perform
 
 #### Due date
 
-This assignment is due {{ md page.due}}.
+This assignment is due {{ md due}}.
