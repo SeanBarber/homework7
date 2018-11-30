@@ -1,6 +1,8 @@
 ---
 title: Homework 7
-page.due: Thursday December 6th, 11:59:59 PM
+
+due: Thursday December 6th, 11:59:59 PM
+
 ---
 # {{ page.title }}: Measuring thread and process performance
 
